@@ -28,7 +28,7 @@ body {
   min-height: 50%;
   margin: auto;
   filter: blur(15px);
-  -webkit-filter: blur(2px);
+  -webkit-filter: blur(20px);
   transform: scale(1.1);
 }
 .container {
