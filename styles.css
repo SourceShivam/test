@@ -28,7 +28,7 @@ body {
   min-height: 50%;
   margin: auto;
   filter: blur(15px);
-  -webkit-filter: blur(50px);
+  -webkit-filter: blur(2px);
   transform: scale(1.1);
 }
 .container {
@@ -37,9 +37,6 @@ body {
   height: 400px;
   border-radius: 1rem;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
-  margin-top: 100px;
-  margin: auto;
-  margin: 110px;
 }
 .player_img {
   width: 200px;
